@@ -1,0 +1,18 @@
+this project will follow 2 tutorials:
+https://medium.com/@data.science.enthusiast/create-web-apps-for-your-ml-model-using-python-and-streamlit-cc966142633d
+https://medium.com/@data.science.enthusiast/how-to-deploy-a-streamlit-machine-learning-app-over-aws-ec2-instance-12b6751268f1
+
+
+To create a model to predict game result based on a dataset related of football games.
+
+
+Project step:
+- initialisation (git, folder, business case)
+- data scrapping
+- data EDA and feature engineering
+- model
+- streamlit to create web application
+- local deployement
+- AWS EC2 deployement
+- conclusion
+
